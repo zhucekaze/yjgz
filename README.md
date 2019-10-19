@@ -21,7 +21,6 @@
 * 所有图表在线地址：[https://me.bdp.cn/share/index.html?shareId=sdo_115c362229a07a87e862dfb3814000c5](https://me.bdp.cn/share/index.html?shareId=sdo_115c362229a07a87e862dfb3814000c5)
 
 ## 毕业时间分布
-选择在北京的人数最多，有19人，其次是广东(13)，上海(7)，浙江(7)。由于其他城市人数过少，一些统计会针对前4的城市进行过滤。
 
 <img alt="城市分布" src="毕业时间分布.png" width="80%">
 
